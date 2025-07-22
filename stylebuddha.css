@@ -1,0 +1,22 @@
+.left{
+    color:yellow;
+}
+.center{
+    color:yellow;
+}
+.right{
+    color:yellow;
+}
+
+body {
+  background-image: url('image4.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5); /* black with 50% transparency */
+  color: white;
+  padding: 50px;
+}
